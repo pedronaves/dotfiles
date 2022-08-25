@@ -1,4 +1,6 @@
-# holman does dotfiles
+# my own dotfiles
+
+## holman does this dotfiles
 
 Your dotfiles are how you personalize your system. These are mine.
 
